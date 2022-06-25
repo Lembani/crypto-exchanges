@@ -102,7 +102,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Original design idea by [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) on [Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
 - Hat tip to anyone whose code was used
 
 ## 📝 License
