@@ -20,6 +20,23 @@ body {
   justify-content: space-between;
 }
 
+.header-actions {
+  display: flex;
+  gap: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 14px;
+}
+
 .footer {
   font-size: 14px;
   text-align: center;
